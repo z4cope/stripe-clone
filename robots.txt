@@ -1,0 +1,7 @@
+Sitemap: https://docs.stripe.com/sitemap.xml
+
+User-agent: *
+Allow: /
+Allow: /$
+Disallow: /handoff-healthcheck
+Disallow: /handoff
